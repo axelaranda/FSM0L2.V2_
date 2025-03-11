@@ -1,2 +1,1 @@
-# FSM0L2.V2_
-Este es un repositorio de prueba del módulo 0 de Henry
+Esto es una prueba de cómo crear un repositorio desde github y clonarlo a mi escritorio.
